@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="skin.maximinimalismMKII" version="1.0.0" name="Maximinimalism Mark II" provider-name="larusso">
+<addon id="skin.maximinimalismMKII" version="1.0.1" name="Maximinimalism Mark II" provider-name="larusso">
 	<requires>
 		<import addon="xbmc.gui" version="5.0.1"/>
 		<import addon="service.skin.widgets" version="0.0.25"/>
